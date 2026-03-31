@@ -7,6 +7,7 @@
 - Year: 1st Year B.Tech
 
 📌 Project Overview
+
 This project was completed as part of the CSE0001 Digital Literacy course. 
 
 As a Student Digital Ambassador, the objective was to build a Digital Literacy Portfolio that demonstrates understanding of digital tools, online professionalism, communication, and cyber safety.
