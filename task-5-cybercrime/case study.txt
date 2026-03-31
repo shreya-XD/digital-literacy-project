@@ -1,0 +1,9 @@
+Part A – Case Study: UPI / Online Payment Fraud
+
+A common cybercrime affecting students and the general public in India is UPI-based online payment fraud. In this type of fraud, scammers trick individuals into sharing sensitive information or approving fraudulent transactions.
+For example, a student might receive a call or message claiming to be from a bank or payment service. The scammer may say that there is an issue with the account and ask the student to click on a link or share an OTP. In some cases, they send a “request money” notification and ask the victim to approve it, falsely claiming it will “receive money.”
+Students and first-time users of digital payment apps are often targeted because they may not fully understand how these systems work. Once the victim shares the OTP or approves the request, money is instantly transferred from their account to the scammer’s account.
+The consequences of such fraud include financial loss, stress, and loss of trust in digital platforms. In some cases, recovering the lost money is difficult. This highlights the importance of awareness and caution while using digital payment systems.
+
+
+
